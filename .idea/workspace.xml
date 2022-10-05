@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="253d0805-d029-4a5d-a3c4-bb46b90545d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="253d0805-d029-4a5d-a3c4-bb46b90545d2" name="Changes" comment="2nd commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exploratory_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exploratory_analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,8 +86,16 @@
       <workItem from="1663597435081" duration="307000" />
       <workItem from="1663794695611" duration="4862000" />
       <workItem from="1664488628680" duration="25000" />
-      <workItem from="1664909966116" duration="501000" />
+      <workItem from="1664909966116" duration="7229000" />
     </task>
+    <task id="LOCAL-00001" summary="2nd commit">
+      <created>1664910488752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664910488752</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
   </component>
 </project>
